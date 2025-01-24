@@ -1,0 +1,107 @@
+[
+  {
+    "latLng": [1573, 570],
+    "headline": "Behindertenparkplätze",
+    "body": "Menschen mit Behinderungen können vor Fahrbeginn prüfen, ob ein passender Parkplatz frei ist.",
+    "iconSelector": 1,
+    "shadowOn": true
+  },
+  {
+    "latLng": [1780, 1125],
+    "headline": "Bodenfeuchte",
+    "body": "Die Messung der Bodenfeuchte, insbesondere an Bäumen, ermöglicht die kontinuierliche Überwachung des Wassergehaltes im Boden. Ziel ist u.a. das zielgerichtete Bewässern der Pflanzen bei Trockenheit.",
+    "iconSelector": 2,
+    "shadowOn": true
+  },
+  {
+    "latLng": [1620, 1050],
+    "headline": "Grundwasserpegel",
+    "body": "Das deutsche Wasserrecht schreibt regelmäßige Grundwasserpegelmessungen vor. Diese Messungen werden in der Regel \"per Hand\" durchgeführt und erzeugen einen hohen Personalaufand. LoRaWAN-Sensoren ermöglichen die Messung des Grundwasserpegels wartungsfrei, energieefizent und sekundenschnell",
+    "iconSelector": 3,
+    "shadowOn": true
+  },
+  {
+    "latLng": [1351, 405],
+    "headline": "Ladezonenüberwachung",
+    "body": "Ladezonen können mithilfe von Parkplatzsensoren überwacht werden. Die Überwachung dient u.a. der Indentifizierung von Falschparkern",
+    "iconSelector": 4,
+    "shadowOn": false
+  },
+  {
+    "latLng": [482, 628],
+    "headline": "LoRaWAN-Gateway",
+    "body": "Das LoRaWAN-Gateway bildet die zentrale Empfangseinheit für alle LoRaWAN-Sensoren. Die Daten werden hier gesammelt und in Echtzeit an die Datenplattform weitergeleitet.",
+    "iconSelector": 5,
+    "shadowOn": false
+  },
+  {
+    "latLng": [1365, 1115],
+    "headline": "Luftqualität",
+    "body": "Luftqualitäts-Sensoren messen die Luftqualität vor Ort. Die Daten können für Warnungen oder wissenschaftliche Auswertungen genutzt werden.",
+    "iconSelector": 6,
+    "shadowOn": true
+  },
+  {
+    "latLng": [274.5, 734],
+    "headline": "Niederschlag",
+    "body": "Niederschlagsmengen können erfasst und gespeichert werden. Die Daten sind insbesondere für wissenschaftliche Auswertungen relevant.",
+    "iconSelector": 7,
+    "shadowOn": false
+  },
+  {
+    "latLng": [1585, 795],
+    "headline": "Parksensoren",
+    "body": "Parksensoren zeigen an, ob ein Parkplatz belegt, oder frei ist.",
+    "iconSelector": 8,
+    "shadowOn": true
+  },
+  {
+    "latLng": [1178, 790],
+    "headline": "Personenzählung",
+    "body": "Personen können in Gebäuden z.B. mithilfe von Lichtschranken oder auf freien Flächen mithilfe sog. Paxcountern gezählt werden.",
+    "iconSelector": 9,
+    "shadowOn": true
+  },
+  {
+    "latLng": [716, 700],
+    "headline": "Personenzählung",
+    "body": "Personen können in Gebäuden z.B. mithilfe von Lichtschranken oder auf freien Flächen mithilfe sog. Paxcountern gezählt werden.",
+    "iconSelector": 9,
+    "shadowOn": true
+  },
+  {
+    "latLng": [813.75, 1073],
+    "headline": "Temperatur",
+    "body": "Temperatursensoren messen die Lufttemperatur vor Ort. Die Daten können für Warnungen oder wissenschaftliche Auswertungen genutzt werden.",
+    "iconSelector": 10,
+    "shadowOn": false
+  },
+  {
+    "latLng": [936.2, 720],
+    "headline": "UV-Werte",
+    "body": "UV-Sensoren messen die UV-Werte vor Ort. Die Daten können für Warnungen oder wissenschaftliche Auswertungen genutzt werden.",
+    "iconSelector": 11,
+    "shadowOn": false
+  },
+  {
+    "latLng": [720, 480],
+    "headline": "Verkehrszählung",
+    "body": "Sensoren zur Verkehrzählung können Fahrzeuge, Fahrräder oder Passanten erfassen. Verkehrsströme können dadurch dargestellt und optimiert werden.",
+    "iconSelector": 12,
+    "shadowOn": true
+  },
+  {
+    "latLng": [620, 980],
+    "headline": "Energiedatenerfassung",
+    "body": "Ziel der Energiedatenerfassung ist es, Energieflüsse zu erfassen und Energieeffizienzpotentiale zu erschließen. Zähler können schneller, genauer und in festgelegten Zeiträumen ausgelesen werden.",
+    "iconSelector": 13,
+    "shadowOn": true
+  },
+  {
+    "latLng": [1189, 950],
+    "headline": "Füllstandsanzeigen",
+    "body": "Durch die Anzeige der Füllstände können Abfallbehälter nach Priorität und bedarfsgerecht geleert werden.",
+    "iconSelector": 14,
+    "shadowOn": true
+  }
+]
